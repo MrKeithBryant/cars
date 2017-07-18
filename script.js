@@ -177,7 +177,7 @@ console.log(Sport);
 // Write your code below:
 
 
-
+Sport.massBuild('15000', Sport);
 
 
 // Print miataRf, calling customerBuild(), building one black Miata-Rf with the following options, as an array: hid headlights, sports suspension, leather steering wheel, heated seats, adaptive cruise control.
